@@ -1,0 +1,23 @@
+Game title: Last Barricade: Idle Wave
+
+## Description
+
+Hold the line. Your squad is dug in behind the last barricade on the street, and the undead keep coming, wave after wave.
+
+Last Barricade: Idle Wave is an idle zombie defense game. Your squad aims and fires on its own. Your job is to make it stronger. Spend coins on Attack, Fire Rate and Barricade upgrades while the fight is on, pick a squad upgrade after every wave, and stock up at the Supply Depot before the next horde arrives. At the end of each stage a boss comes down the street. Beat it to clear the stage and move on.
+
+When the barricade falls, the run ends, but your progress doesn't. Recruit mercenaries, level up your commander and go back stronger. Your idle earnings keep growing while you're away.
+
+Features:
+- Auto-shooting squad defense that's easy to pick up
+- 10 stages, each with its own boss, plus an endless mode
+- Squad upgrades, weapons and squad bonds to combine in every run
+- Mercenaries, commander levels and idle earnings that carry over between runs
+- Plays with the mouse or with touch, in landscape or portrait
+
+## Controls
+
+- Left mouse button (or tap): buy upgrades, pick squad upgrades, use the Supply Depot and the menus
+- Your squad aims and fires automatically
+- Mouse wheel (or pinch): zoom the battle camera in and out. You can also set it in Settings (Camera Zoom)
+- The buttons at the top pause the game, change the speed and switch upgrade picking between Manual and Auto
